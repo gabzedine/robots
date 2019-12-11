@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/gabzedine/robots/issues"
   },
-  "homepage": "https://github.com/gabzedine/robots#readme"
+  "homepage": "https://github.com/gabzedine/robots#readme",
+  "dependencies": {
+    "readline-sync": "^1.4.10"
+  }
 }
