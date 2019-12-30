@@ -109,3 +109,4 @@ dist
 package-lock.json
 credentials/*.json
 content/*.png
+content/*.jpg
